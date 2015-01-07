@@ -1,0 +1,12 @@
+## Chef Engineering Manifesto
+
+### Development
+
+### Testing
+WRITE FRICTION-FREE TESTS  
+SHOW INTENT QUICKLY AND CLEARLY  
+BE PRACTICAL, YET CLOSE TO THE USE CASE  
+KEEP SPEED AS A PRIORITY  
+
+### Release
+
